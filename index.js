@@ -9,6 +9,22 @@ function testFunctionTwo() {
   return console.log(500000 / 2)
 }
 
+function testFuncThree() {
+  return console.log(25000/2)
+}
+
+function testFuncFour() {
+  return console.log(12500/2)
+}
+
+function testFucnFive() {
+  return console.log(6250/2)
+}
+
+
 sikeFucker()
 testFunction()
 testFunctionTwo()
+testFuncThree()
+testFuncFour()
+testFucnFive()
