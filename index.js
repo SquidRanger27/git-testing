@@ -1,7 +1,7 @@
 function sikeFucker() {
   return console.log('This should be working ')
 }
-function testFunction() {
+func testFunction() {
   return console.log(1000000 / 2)
 }
 
